@@ -1,3 +1,3 @@
-# Vigor Product Page (2022)
+# Vigor Product Page
 
 Demo - https://vigor-product-page.netlify.app
